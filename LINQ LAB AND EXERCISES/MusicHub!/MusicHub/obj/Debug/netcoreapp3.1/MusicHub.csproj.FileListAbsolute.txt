@@ -1,0 +1,5 @@
+C:\Users\Dell\source\C# DB\Entity Framework Core\LINQ LAB\MusicHub!\MusicHub\obj\Debug\netcoreapp3.1\MusicHub.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# DB\Entity Framework Core\LINQ LAB\MusicHub!\MusicHub\obj\Debug\netcoreapp3.1\MusicHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# DB\Entity Framework Core\LINQ LAB\MusicHub!\MusicHub\obj\Debug\netcoreapp3.1\MusicHub.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# DB\Entity Framework Core\LINQ LAB\MusicHub!\MusicHub\obj\Debug\netcoreapp3.1\MusicHub.AssemblyInfo.cs
+C:\Users\Dell\source\C# DB\Entity Framework Core\LINQ LAB\MusicHub!\MusicHub\obj\Debug\netcoreapp3.1\MusicHub.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+C:\Users\Dell\source\C# DB\Entity Framework Core\Exercise Entity Framework Introduction\EntityFrameworkCore-Exercise\EntityFrameworkCore-Exercise\obj\Debug\net5.0\EntityFrameworkCore-Exercise.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# DB\Entity Framework Core\Exercise Entity Framework Introduction\EntityFrameworkCore-Exercise\EntityFrameworkCore-Exercise\obj\Debug\net5.0\EntityFrameworkCore-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# DB\Entity Framework Core\Exercise Entity Framework Introduction\EntityFrameworkCore-Exercise\EntityFrameworkCore-Exercise\obj\Debug\net5.0\EntityFrameworkCore-Exercise.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# DB\Entity Framework Core\Exercise Entity Framework Introduction\EntityFrameworkCore-Exercise\EntityFrameworkCore-Exercise\obj\Debug\net5.0\EntityFrameworkCore-Exercise.AssemblyInfo.cs
+C:\Users\Dell\source\C# DB\Entity Framework Core\Exercise Entity Framework Introduction\EntityFrameworkCore-Exercise\EntityFrameworkCore-Exercise\obj\Debug\net5.0\EntityFrameworkCore-Exercise.csproj.CoreCompileInputs.cache

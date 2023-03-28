@@ -1,0 +1,15 @@
+C:\Users\Dell\source\C# DB\Entity Framework Core\LINQ LAB\Ef_LINQ_Demo\Ef_LINQ_Demo\bin\Debug\net6.0\Ef_LINQ_Demo.exe
+C:\Users\Dell\source\C# DB\Entity Framework Core\LINQ LAB\Ef_LINQ_Demo\Ef_LINQ_Demo\bin\Debug\net6.0\Ef_LINQ_Demo.deps.json
+C:\Users\Dell\source\C# DB\Entity Framework Core\LINQ LAB\Ef_LINQ_Demo\Ef_LINQ_Demo\bin\Debug\net6.0\Ef_LINQ_Demo.runtimeconfig.json
+C:\Users\Dell\source\C# DB\Entity Framework Core\LINQ LAB\Ef_LINQ_Demo\Ef_LINQ_Demo\bin\Debug\net6.0\Ef_LINQ_Demo.dll
+C:\Users\Dell\source\C# DB\Entity Framework Core\LINQ LAB\Ef_LINQ_Demo\Ef_LINQ_Demo\bin\Debug\net6.0\Ef_LINQ_Demo.pdb
+C:\Users\Dell\source\C# DB\Entity Framework Core\LINQ LAB\Ef_LINQ_Demo\Ef_LINQ_Demo\obj\Debug\net6.0\Ef_LINQ_Demo.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# DB\Entity Framework Core\LINQ LAB\Ef_LINQ_Demo\Ef_LINQ_Demo\obj\Debug\net6.0\Ef_LINQ_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# DB\Entity Framework Core\LINQ LAB\Ef_LINQ_Demo\Ef_LINQ_Demo\obj\Debug\net6.0\Ef_LINQ_Demo.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# DB\Entity Framework Core\LINQ LAB\Ef_LINQ_Demo\Ef_LINQ_Demo\obj\Debug\net6.0\Ef_LINQ_Demo.AssemblyInfo.cs
+C:\Users\Dell\source\C# DB\Entity Framework Core\LINQ LAB\Ef_LINQ_Demo\Ef_LINQ_Demo\obj\Debug\net6.0\Ef_LINQ_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# DB\Entity Framework Core\LINQ LAB\Ef_LINQ_Demo\Ef_LINQ_Demo\obj\Debug\net6.0\Ef_LINQ_Demo.dll
+C:\Users\Dell\source\C# DB\Entity Framework Core\LINQ LAB\Ef_LINQ_Demo\Ef_LINQ_Demo\obj\Debug\net6.0\refint\Ef_LINQ_Demo.dll
+C:\Users\Dell\source\C# DB\Entity Framework Core\LINQ LAB\Ef_LINQ_Demo\Ef_LINQ_Demo\obj\Debug\net6.0\Ef_LINQ_Demo.pdb
+C:\Users\Dell\source\C# DB\Entity Framework Core\LINQ LAB\Ef_LINQ_Demo\Ef_LINQ_Demo\obj\Debug\net6.0\Ef_LINQ_Demo.genruntimeconfig.cache
+C:\Users\Dell\source\C# DB\Entity Framework Core\LINQ LAB\Ef_LINQ_Demo\Ef_LINQ_Demo\obj\Debug\net6.0\ref\Ef_LINQ_Demo.dll
